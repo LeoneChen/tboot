@@ -61,10 +61,10 @@ by default or optionally; otherwise they can be found on various package
 sites and manually installed.
 
 ## Using TBOOT
-[Link to page] (docs/howto_use.md)
+[Link to page](docs/howto_use.md)
 
 ## Execution flow
-[Link to page] (docs/tboot_flow.md)
+[Link to page](docs/tboot_flow.md)
 
 ## Interesting Items of Note:
 

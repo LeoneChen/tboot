@@ -1,0 +1,7 @@
+*.o
+*.png
+*.a
+lcp2_*
+txt-*
+tb_*
+tboot*
